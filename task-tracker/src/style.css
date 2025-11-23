@@ -1,0 +1,11 @@
+a-button {
+  transition: all 0.3s;
+}
+
+a-card {
+  transition: box-shadow 0.3s;
+}
+
+a-card:hover {
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+}
